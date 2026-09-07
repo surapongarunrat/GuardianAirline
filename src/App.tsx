@@ -22,7 +22,7 @@ const images = {
   london: 'https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=900',
   tokyo: 'https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=900',
   dubai: 'https://images.pexels.com/photos/2044434/pexels-photo-2044434.jpeg?auto=compress&cs=tinysrgb&w=900',
-  cockpit: 'https://images.pexels.com/photos/19101603/pexels-photo-19101603.jpeg?auto=compress&cs=tinysrgb&w=1200',
+  cockpit: 'https://images.pexels.com/photos/15953920/pexels-photo-15953920.jpeg?auto=compress&cs=tinysrgb&w=1200',
 };
 
 const navItems: { label: string; page: Page }[] = [
